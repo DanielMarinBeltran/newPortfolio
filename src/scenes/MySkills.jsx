@@ -24,10 +24,7 @@ function MySkills() {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos odio
-            animi corporis autem dolorum eligendi omnis delectus voluptatem
-            dicta reprehenderit. Earum doloribus illum quasi laboriosam rerum
-            hic incidunt recusandae consectetur
+            In terms of development tools and languages that I manage are React.js, HTML5, CSS3, JS, SCSS, and Material UI for Front End Development, in terms of Back End Development I manage Node.js with Express and for databases Postgress and MongoDB. In terms of my basic skills, the ones that shine better on me are:
           </p>
         </motion.div>
         <div className="mt-16 md:mt-0">
@@ -66,16 +63,16 @@ function MySkills() {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">01</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Experience
+                Creative
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
-          <p className="mt-5">
+          {/* <p className="mt-5">
             A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
             morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
             odio sit sagittis,
-          </p>
+          </p> */}
         </motion.div>
         {/* INNOVATIVE */}
         <motion.div
@@ -98,12 +95,12 @@ function MySkills() {
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
-          <p className="mt-5">
+          {/* <p className="mt-5">
             Urna, eget pulvinar dolor cursus volutpat dictum odio. Nec ultricies
             amet in in neque nibh tortor. Libero sed pretium justo nulla blandit
             nulla amet habitant iaculis. Iaculis in congue vitae sollicitudin
             faucibus a
-          </p>
+          </p> */}
         </motion.div>
         {/* IMAGINATIVE */}
         <motion.div
@@ -121,17 +118,17 @@ function MySkills() {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">03</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Imaginative
+                Self Taught
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
-          <p className="mt-5">
+          {/* <p className="mt-5">
             Accumsan eu fringilla nisi, eget. Vitae, eget ut id proin arcu in
             curabitur. Lectus libero, egestas enim aliquam quis felis amet.
             Sagittis, amet netus fringilla netus lobortis odio sed platea.
             Bibendum.
-          </p>
+          </p> */}
         </motion.div>
       </div>
     </section>
